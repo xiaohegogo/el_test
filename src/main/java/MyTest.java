@@ -5,7 +5,7 @@ public class MyTest {
 
     public static void main(String[] args) {
         System.out.println("Hello, Git!");
-        System.out.println("branches 1.0");
+        System.out.println("branch 1.0");
     }
 
 }
