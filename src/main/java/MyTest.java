@@ -8,5 +8,4 @@ public class MyTest {
         System.out.println("master");
     }
 
-
 }
