@@ -5,6 +5,7 @@ public class MyTest {
         System.out.println("master");
         System.out.println("branch-02");
         System.out.println("branch-02-01");
+        System.out.println("branch-02-02");
     }
 
 }
