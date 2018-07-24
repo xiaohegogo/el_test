@@ -4,6 +4,7 @@ public class MyTest {
         System.out.println("Hello, Git!");
         System.out.println("master");
         System.out.println("branch-02");
+        System.out.println("branch-02-01");
     }
 
 }
